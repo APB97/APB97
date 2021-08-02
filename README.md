@@ -10,7 +10,7 @@ After some time spent with C++, I picked up another programming language - C# th
 
 At that time I had to learn everything on my own - and this wasn't easy - but I was determined because I've hit a roadblock when trying to make Graphical User Inteface with C++.
 
-Having grasped the basic, I was suprised how easy it was to create a GUI - and since then I shifted most of my focus towards learning more about the language and possibilities it provided me with.
+Having grasped the basics, I was suprised how easy it was to create a GUI - and since then I shifted most of my focus towards learning more about the language and possibilities it provided me with.
 
 ### Technologies I know
 
