@@ -8,7 +8,7 @@ In the beginning I didn't do much to expand my knowledge beyond the standards th
 
 After some time spent with C++, I picked up another programming language - C# that is.
 
-At that time I had to learn everything on my own - and this wasn't easy - but I was determined because I've hit a roadblock when trying to make Graphical User Inteface with C++.
+At that time I had to learn everything on my own - and this wasn't easy - but I was determined because I've hit a roadblock when trying to make Graphical User Interface with C++.
 
 Having grasped the basics, I was suprised how easy it was to create a GUI - and since then I shifted most of my focus towards learning more about the language and possibilities it provided me with.
 
