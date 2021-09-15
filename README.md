@@ -16,7 +16,7 @@ Having grasped the basics, I was suprised how easy it was to create a GUI - and 
 
 - C#/.NET
   - Windows Forms
-  - Uniwersal Windows Platform
+  - Universal Windows Platform
   - Unity
   - ASP.NET MVC
 - Python
