@@ -12,23 +12,26 @@ At that time I had to learn everything on my own - and this wasn't easy - but I 
 
 Having grasped the basics, I was suprised how easy it was to create a GUI - and since then I shifted most of my focus towards learning more about the language and possibilities it provided me with.
 
-### Technologies I know
+### Technologies I know the best
 
-- C#/.NET
-  - Windows Forms
-  - Universal Windows Platform
-  - Unity
-  - ASP.NET MVC
+- C#
+- .NET Framework 4.x
+- .NET Core 3.1
+- .NET 5
+- Windows Forms
+- Universal Windows Platform
+- Unity
+
+### Technologies I've spent much time with
+
+- ASP.NET MVC
 - Python
 - C++
-  - Unreal Engine 4
-- Docker
+- Unreal Engine 4
 
 ### Apart from these I've used
-- Java
-- HTML
-- CSS
-- JavaScript
+
+- Docker
 
 <!--
 **APB97/APB97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
