@@ -32,6 +32,7 @@ Having grasped the basics, I was suprised how easy it was to create a GUI - and 
 ### Apart from these I've used
 
 - Docker
+- SQL
 
 <!--
 **APB97/APB97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
