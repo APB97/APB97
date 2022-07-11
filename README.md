@@ -8,7 +8,7 @@ I feel that the programming language I know the best is C# and I'm exploring dif
 
 ### Skills
 
-I usually build desktop and web applications, with use of C#, XAML, SQL, ASP.Net, HTML.
+I usually build desktop and web applications, with use of C#, XAML, ASP.Net, HTML.
 
 Here are my key technical skills:
 
