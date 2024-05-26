@@ -8,29 +8,44 @@ I feel that the programming language I know the best is C# and I'm exploring dif
 
 ### Skills
 
-I usually build desktop and web applications, with use of C#, XAML, ASP.Net, HTML.
+I usually build desktop and web applications, with use of C#, XAML, ASP.NET Core, EF Core, SQL, HTML, CSS, JavaScript.
 
 Here are my key technical skills:
 
-- Software development with C#
-  - I use language features up to C# 9.0
-  - I use .NET 6.0
-  - I'm currently learning about new features in C# 10 and .NET 6.0 
+- Software development with C# and .NET
+  - I use many language features up to C# 12
+  - I use .NET 8
+  - I'm learning about new features in C# and .NET as they are introduced
+- Technologies
+  - I use Blazor for creating new web applications, what enables rich client-side interactivity (WebAssembly/Server/Auto render modes)
 - Patterns
-  - MVC for ASP.Net and ASP.Net Core apps
+  - MVC for ASP.NET Core MVC apps (previously I used it for ASP.NET MVC apps)
   - MVVM for UWP and WPF apps
 - Object-Relational Mapping
-  - Entity Framework, EF Core
+  - Entity Framework Core (previously I used Entity Framework)
 - Web Development
-  - ASP.Net MVC, ASP.Net Core MVC
+  - Blazor (mentioned in Technologies bullet point, part of ASP.NET Core) 
+  - ASP.NET Core MVC (previously ASP.NET MVC)
   - HTML
   - CSS
   - client-side JavaScript
+  - REST APIs
+  - GraphQL APIs
+
+### Glossary
+
+- EF stands for Entity Framework
+- SQL stands for Structured Query Language
+- HTML stands for HyperText Markup Language
+- CSS stands for Cascading Style Sheets
+- WPF stands for Windows Presentation Foundation 
+- MVC stands for Model-View-Controller pattern
+- MVVM stands for Model-View-ViewModel pattern
+- REST stands for REpresentational State Transfer
+- API stands for Application Programming Interface
 
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 -->
