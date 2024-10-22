@@ -3,8 +3,9 @@
 ### About me
 
 My name is Adrian Bieliński, I am a sofware developer from Poland. I started programming in C# around year 2011, and now I am able to create both desktop and web applications with C# and .NET. I am passionate about programming, solving problems and learning.
+<details>
 
-### Skills
+<summary>Skills</summary>
 
 I usually build desktop and web applications, with use of C#, XAML, ASP.NET Core, EF Core, SQL, HTML, CSS, JavaScript.
 
@@ -28,6 +29,7 @@ Here are my key technical skills:
   - client-side JavaScript
   - REST APIs
   - GraphQL APIs
+</details>
 
 <details>
 
